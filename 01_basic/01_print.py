@@ -1,0 +1,5 @@
+print('hola mundo')
+print('Python', 'es', 'genial')
+print('Python', 'es', 'genial', sep='***')
+print('Python', 'es', 'genial', end='### ')
+print('Y muy bueno para mostrar cadenas con la función print')
